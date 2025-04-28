@@ -176,3 +176,4 @@ tk.Button(root, text="Go to Dashboard", command=lambda: switch_window(root, main
 tk.Button(root, text="Exit", command=root.quit).pack(pady=10)
 
 root.mainloop()
+i love pork chops
